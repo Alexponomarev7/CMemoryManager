@@ -1,0 +1,4 @@
+/Users/lexolordan/c++/IMemoryManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lexolordan/c++/IMemoryManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lexolordan/c++/IMemoryManager/cmake-build-debug/CMakeFiles/test.dir
+/Users/lexolordan/c++/IMemoryManager/cmake-build-debug/CMakeFiles/main.dir
