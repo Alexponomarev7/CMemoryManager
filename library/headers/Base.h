@@ -17,4 +17,8 @@ public:
 
 };
 
+struct InfoBlock {
+    static const size_t info;
+};
+
 #endif //CMEMORYMANAGERSWITCHER_SINGLETONBASE_H
